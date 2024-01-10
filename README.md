@@ -9,7 +9,6 @@ It is essential to start the process by gathering an accurate and trustworthy da
 Our Word in Data and Visual Crossing are two official sources from which the datasets were gathered for this study. A well-known organization's website called "Our World in Data" offers accurate information on a range of international issues.
 
 Results:
-
 ARIMA model outperformed Fb-Prophet model for both COVID cases and COVID deaths
 Technologies Used
 Google Colab was used for this project.
