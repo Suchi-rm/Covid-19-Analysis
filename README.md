@@ -8,14 +8,9 @@ Data Understanding
 It is essential to start the process by gathering an accurate and trustworthy dataset, which is the first stage. Finding a high-quality dataset might be challenging, but doing so is crucial since it improves the validity of the research and facilitates wise decision-making while analysing the dataset.
 Our Word in Data and Visual Crossing are two official sources from which the datasets were gathered for this study. A well-known organization's website called "Our World in Data" offers accurate information on a range of international issues.
 
-ARIMA vs Fb-Prophet RMSE comparison for 5 countries:
-COUNTRY          ARIMA RMSE COVID cases    Fb-Prophet RMSE COVID cases     ARIMA RMSE Death cases    Fb-Prophet RMSE Death cases
-BRAZIL             13114.529  	            27627.154	                       98.362	                   986.170
-INDIA              3243.531	                38371.457 	                     10.979 	                 186.289
-INDONESIA	         563.09     	            7058.700    	                    8.416   	                61.8516
-ITALY	            2327.725	                24028.557	                        22.606	                  128.647
-UNITED KINGDOM	  1624.689	                64898.67	                        40.256	                  67.716
+Results:
 
+ARIMA model outperformed Fb-Prophet model for both COVID cases and COVID deaths
 Technologies Used
 Google Colab was used for this project.
 
